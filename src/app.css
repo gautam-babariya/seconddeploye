@@ -1,0 +1,12 @@
+#c{
+    background-color: pink;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+}
+.line{
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
